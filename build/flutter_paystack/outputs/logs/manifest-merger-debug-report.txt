@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:4:5-8:19
+activity#co.paystack.flutterpaystack.AuthActivity
+ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:5:9-7:54
+	android:theme
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:7:13-51
+	android:name
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml:6:13-41
+uses-sdk
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+		ADDED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml
+		INJECTED from E:\programs\src\flutter_windows\flutter\.pub-cache\git\flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01\android\src\main\AndroidManifest.xml

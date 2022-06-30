@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/wrteam/eshop/BuildConfig.java
+ com.wrteam.eshop.BuildConfig
+com/wrteam/eshop/MainActivity.java
+ com.wrteam.eshop.MainActivity
