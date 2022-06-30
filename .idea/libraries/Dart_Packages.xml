@@ -376,7 +376,7 @@
         <entry key="flutter_paystack">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
+              <option value="$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/git/flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01//lib" />
             </list>
           </value>
         </entry>
@@ -1230,6 +1230,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/git/flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01//lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.1/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/auth_header-3.0.1/lib" />
@@ -1281,7 +1282,6 @@
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_linux-0.5.0+1/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-5.0.0/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_math_fork-0.5.0/lib" />
-      <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_rating_bar-4.0.1/lib" />
       <root url="file://$PROJECT_DIR$/../../programs/src/flutter_windows/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.23.0+1/lib" />
